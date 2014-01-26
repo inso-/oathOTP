@@ -1,0 +1,2319 @@
+ToathOTP
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Info.plist /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o /Users/inso/work/otp/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o /Users/inso/work/otp/src/mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o /Users/inso/work/otp/src/addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o /Users/inso/work/otp/src/configfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o /Users/inso/work/otp/src/accountconfigfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o /Users/inso/work/otp/src/otp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o /Users/inso/work/otp/lib/base32.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cPhaseScriptExecution Qt\ Prelink /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+cLd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP normal i386
+cCpResource /Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icns
+cCpResource oathOTP.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+cCpResource Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+cTouch /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052BA1CAE00000000000003B5
+t1387928750
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052BA1CB600000000000001A0
+t1387928758
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052BA1CB900000000005B82A0
+t1387928761
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052BA1CB90000000000445870
+t1387928761
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052BA1CB900000000002F6810
+t1387928761
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052BA1CBB000000000088C680
+t1387928763
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052BA1CBC0000000000037620
+t1387928764
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052BA1CBD00000000004848F0
+t1387928765
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052BA1CC10000000001DB9910
+t1387928769
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052BA1CCC00000000002B9F20
+t1387928780
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052BA1CD40000000000002338
+t1387928788
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052BA1CD5000000000008D300
+t1387928789
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++.dylib
+c0000000052BA1CD500000000001720C0
+t1387928789
+s1515712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+c0000000052BA1CD500000000000681A0
+t1387928789
+s426400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libm.dylib
+c0000000052BA1CD5000000000008D300
+t1387928789
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.A.dylib
+c0000000052BA1CD5000000000038ACB0
+t1387928789
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+c0000000052BA1CD6000000000002B700
+t1387928790
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052BB45B700000000000141F0
+t1388004791
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052BA1CD60000000000013500
+t1387928790
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052BA1CD60000000000033BA0
+t1387928790
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052BA1CD6000000000001CFB0
+t1387928790
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052BA1CD6000000000001B2B0
+t1387928790
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052BA1CD600000000000632B0
+t1387928790
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052BA1CD60000000000008880
+t1387928790
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052BA1CD60000000000015080
+t1387928790
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052BA1CD600000000000230E0
+t1387928790
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052BA1CD6000000000000E380
+t1387928790
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052BA1CD60000000000087200
+t1387928790
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052BA1CD600000000000171A0
+t1387928790
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052BA1CD60000000000039C10
+t1387928790
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052BA1CD6000000000000B0B0
+t1387928790
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052BA1CD60000000000167FE0
+t1387928790
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052BA1CD600000000000106A0
+t1387928790
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052BA1CD6000000000001CE40
+t1387928790
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052BA1CD60000000000071040
+t1387928790
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052BA1CD60000000000067A10
+t1387928790
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052BA1CD6000000000001BAD0
+t1387928790
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052BA1CD60000000000088BA0
+t1387928790
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052BA1D140000000000005004
+t1387928852
+s20484
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052BB458D0000000000688550
+t1388004749
+s6849872
+
+N/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052BB45A70000000000ED5770
+t1388004775
+s15554416
+
+N/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052BB45950000000000255920
+t1388004757
+s2447648
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052BB459900000000009FD510
+t1388004761
+s10474768
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052BB45A800000000004D4160
+t1388004776
+s5063008
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/QCryptographicHash
+c0000000052A4EA800000000000000020
+t1386539648
+s32
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/QDebug
+c0000000052A4EA800000000000000014
+t1386539648
+s20
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/QMessageAuthenticationCode
+c0000000052A4EA800000000000000028
+t1386539648
+s40
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/QString
+c0000000052A4EA800000000000000015
+t1386539648
+s21
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/QVariant
+c0000000052A4EA800000000000000016
+t1386539648
+s22
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qabstractitemmodel.h
+c0000000052A4EA800000000000004E1A
+t1386539648
+s19994
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+c0000000052A4EA810000000000004C97
+t1386539649
+s19607
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+c0000000052A4EA81000000000000392F
+t1386539649
+s14639
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+c0000000052A4EA810000000000001B01
+t1386539649
+s6913
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+c0000000052A4EA800000000000003B3D
+t1386539648
+s15165
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+c0000000052A4EA810000000000002E0E
+t1386539649
+s11790
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+c0000000052A4EA810000000000005C31
+t1386539649
+s23601
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+c0000000052A4EA810000000000004563
+t1386539649
+s17763
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+c0000000052A4EA800000000000007F53
+t1386539648
+s32595
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+c0000000052A4EA810000000000001500
+t1386539649
+s5376
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+c0000000052A4EA810000000000000A53
+t1386539649
+s2643
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontiguouscache.h
+c0000000052A4EA810000000000003715
+t1386539649
+s14101
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreapplication.h
+c0000000052A4EA810000000000002585
+t1386539649
+s9605
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreevent.h
+c0000000052A4EA810000000000003C68
+t1386539649
+s15464
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qcryptographichash.h
+c0000000052A4EA810000000000000B9F
+t1386539649
+s2975
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+c0000000052A4EA800000000000002BBA
+t1386539648
+s11194
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qdebug.h
+c0000000052A4EA800000000000002892
+t1386539648
+s10386
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qeventloop.h
+c0000000052A4EA810000000000000D07
+t1386539649
+s3335
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+c0000000052A4EA8100000000000026C0
+t1386539649
+s9920
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qfile.h
+c0000000052A4EA80000000000000145D
+t1386539648
+s5213
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qfiledevice.h
+c0000000052A4EA8000000000000010CD
+t1386539648
+s4301
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+c0000000052A4EA80000000000000174F
+t1386539648
+s5967
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+c0000000052A4EA8100000000000022D2
+t1386539649
+s8914
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+c0000000052A4EA80000000000000884B
+t1386539648
+s34891
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+c0000000052A4EA800000000000001C58
+t1386539648
+s7256
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+c0000000052A4EA8100000000000084BB
+t1386539649
+s33979
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+c0000000052A4EA800000000000001474
+t1386539648
+s5236
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+c0000000052A4EA800000000000000A34
+t1386539648
+s2612
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qitemselectionmodel.h
+c0000000052A4EA8000000000000028A9
+t1386539648
+s10409
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+c0000000052A4EA810000000000002281
+t1386539649
+s8833
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qline.h
+c0000000052A4EA810000000000002B95
+t1386539649
+s11157
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+c0000000052A4EA810000000000007945
+t1386539649
+s31045
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qlocale.h
+c0000000052A4EA810000000000006E1E
+t1386539649
+s28190
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+c0000000052A4EA800000000000001989
+t1386539648
+s6537
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qmap.h
+c0000000052A4EA810000000000009BAE
+t1386539649
+s39854
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qmargins.h
+c0000000052A4EA810000000000002462
+t1386539649
+s9314
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qmessageauthenticationcode.h
+c0000000052A4EA810000000000000B5D
+t1386539649
+s2909
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+c0000000052A4EA8100000000000113C6
+t1386539649
+s70598
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+c0000000052A4EA8100000000000016BE
+t1386539649
+s5822
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+c0000000052A4EA80000000000000C5DB
+t1386539648
+s50651
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+c0000000052A4EA810000000000006350
+t1386539649
+s25424
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+c0000000052A4EA810000000000002C3E
+t1386539649
+s11326
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+c0000000052A4EA81000000000000458E
+t1386539649
+s17806
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+c0000000052A4EA810000000000008F80
+t1386539649
+s36736
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+c0000000052A4EA8100000000000010D2
+t1386539649
+s4306
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qpoint.h
+c0000000052A4EA810000000000003066
+t1386539649
+s12390
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+c0000000052A4EA800000000000002BF9
+t1386539648
+s11257
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qrect.h
+c0000000052A4EA810000000000005B6D
+t1386539649
+s23405
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+c0000000052A4EA810000000000000D96
+t1386539649
+s3478
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+c0000000052A4EA81000000000000113B
+t1386539649
+s4411
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qregularexpression.h
+c0000000052A4EA8100000000000022AC
+t1386539649
+s8876
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+c0000000052A4EA810000000000001A80
+t1386539649
+s6784
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qset.h
+c0000000052A4EA81000000000000379F
+t1386539649
+s14239
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+c0000000052A4EA81000000000000225C
+t1386539649
+s8796
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer.h
+c0000000052A4EA810000000000001767
+t1386539649
+s5991
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+c0000000052A4EA810000000000006FA0
+t1386539649
+s28576
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qsize.h
+c0000000052A4EA81000000000000312C
+t1386539649
+s12588
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+c0000000052A4EA810000000000010F3C
+t1386539649
+s69436
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+c0000000052A4EA810000000000002608
+t1386539649
+s9736
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+c0000000052A4EA810000000000000D02
+t1386539649
+s3330
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+c0000000052A4EA80000000000000137F
+t1386539648
+s4991
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+c0000000052A4EA80000000000000223F
+t1386539648
+s8767
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qtextstream.h
+c0000000052A4EA8000000000000025B5
+t1386539648
+s9653
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+c0000000052A4EA800000000000001CA2
+t1386539648
+s7330
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+c0000000052A4EA8000000000000050B4
+t1386539648
+s20660
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qurl.h
+c0000000052A4EA80000000000000445B
+t1386539648
+s17499
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qvariant.h
+c0000000052A4EA810000000000006BB8
+t1386539649
+s27576
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+c0000000052A4EA8100000000000037D3
+t1386539649
+s14291
+
+N/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+c0000000052A4EA810000000000006A0B
+t1386539649
+s27147
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/QKeyEvent
+c0000000052A4EAA30000000000000014
+t1386539683
+s20
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qbrush.h
+c0000000052A4EAA300000000000024D6
+t1386539683
+s9430
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qcolor.h
+c0000000052A4EAA30000000000001FD3
+t1386539683
+s8147
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qcursor.h
+c0000000052A4EAA3000000000000105A
+t1386539683
+s4186
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qevent.h
+c0000000052A4EAA300000000000073FF
+t1386539683
+s29695
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qfont.h
+c0000000052A4EAA300000000000027BF
+t1386539683
+s10175
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontinfo.h
+c0000000052A4EAA30000000000000B82
+t1386539683
+s2946
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontmetrics.h
+c0000000052A4EAA30000000000001899
+t1386539683
+s6297
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qguiapplication.h
+c0000000052A4EAA300000000000018B9
+t1386539683
+s6329
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qicon.h
+c0000000052A4EAA3000000000000151B
+t1386539683
+s5403
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qimage.h
+c0000000052A4EAA30000000000003782
+t1386539683
+s14210
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qinputmethod.h
+c0000000052A4EAA30000000000000F9E
+t1386539683
+s3998
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qkeysequence.h
+c0000000052A4EAA30000000000001C40
+t1386539683
+s7232
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qmatrix.h
+c0000000052A4EAA300000000000018AD
+t1386539683
+s6317
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qpaintdevice.h
+c0000000052A4EAA300000000000010D3
+t1386539683
+s4307
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qpainterpath.h
+c0000000052A4EAA30000000000003286
+t1386539683
+s12934
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qpalette.h
+c0000000052A4EAA300000000000025BD
+t1386539683
+s9661
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qpen.h
+c0000000052A4EAA30000000000001091
+t1386539683
+s4241
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qpixmap.h
+c0000000052A4EAA300000000000022E2
+t1386539683
+s8930
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qpolygon.h
+c0000000052A4EAA30000000000001A60
+t1386539683
+s6752
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qregion.h
+c0000000052A4EAA30000000000001914
+t1386539683
+s6420
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qrgb.h
+c0000000052A4EAA30000000000000D4F
+t1386539683
+s3407
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qtextcursor.h
+c0000000052A4EAA30000000000001C75
+t1386539683
+s7285
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qtextformat.h
+c0000000052A4EAA30000000000007E10
+t1386539683
+s32272
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qtextoption.h
+c0000000052A4EAA300000000000013DE
+t1386539683
+s5086
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qtouchdevice.h
+c0000000052A4EAA30000000000000BAD
+t1386539683
+s2989
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qtransform.h
+c0000000052A4EAA30000000000002BA2
+t1386539683
+s11170
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qvalidator.h
+c0000000052A4EAA30000000000001A9C
+t1386539683
+s6812
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qvector2d.h
+c0000000052A4EAA30000000000001DD0
+t1386539683
+s7632
+
+N/Users/inso/Qt/5.2.0/ios/include/QtGui/qwindowdefs.h
+c0000000052A4EAA30000000000000CA6
+t1386539683
+s3238
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QAction
+c0000000052A4EACB0000000000000015
+t1386539723
+s21
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QApplication
+c0000000052A4EACB000000000000001A
+t1386539723
+s26
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QButtonGroup
+c0000000052A4EACC000000000000001A
+t1386539724
+s26
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QComboBox
+c0000000052A4EACC0000000000000017
+t1386539724
+s23
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QDialog
+c0000000052A4EACB0000000000000015
+t1386539723
+s21
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QHBoxLayout
+c0000000052A4EACB0000000000000018
+t1386539723
+s24
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QHeaderView
+c0000000052A4EACB0000000000000019
+t1386539723
+s25
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QLabel
+c0000000052A4EACC0000000000000014
+t1386539724
+s20
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QLineEdit
+c0000000052A4EACC0000000000000017
+t1386539724
+s23
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMainWindow
+c0000000052A4EACC0000000000000019
+t1386539724
+s25
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMenu
+c0000000052A4EACC0000000000000013
+t1386539724
+s19
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMenuBar
+c0000000052A4EACC0000000000000016
+t1386539724
+s22
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QPushButton
+c0000000052A4EACC0000000000000019
+t1386539724
+s25
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QSpinBox
+c0000000052A4EACC0000000000000016
+t1386539724
+s22
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QVBoxLayout
+c0000000052A4EACB0000000000000018
+t1386539723
+s24
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QWidget
+c0000000052A4EACB0000000000000015
+t1386539723
+s21
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractbutton.h
+c0000000052A4EACC0000000000001396
+t1386539724
+s5014
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractitemdelegate.h
+c0000000052A4EACC0000000000001252
+t1386539724
+s4690
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractitemview.h
+c0000000052A4EACC0000000000003679
+t1386539724
+s13945
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractscrollarea.h
+c0000000052A4EACC000000000000149D
+t1386539724
+s5277
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractslider.h
+c0000000052A4EACC00000000000013F2
+t1386539724
+s5106
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractspinbox.h
+c0000000052A4EACC00000000000017C6
+t1386539724
+s6086
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qaction.h
+c0000000052A4EACC0000000000001C43
+t1386539724
+s7235
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qactiongroup.h
+c0000000052A4EACC0000000000000D0A
+t1386539724
+s3338
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qapplication.h
+c0000000052A4EACC0000000000002027
+t1386539724
+s8231
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qboxlayout.h
+c0000000052A4EACC000000000000112A
+t1386539724
+s4394
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qbuttongroup.h
+c0000000052A4EACC0000000000000D29
+t1386539724
+s3369
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qcombobox.h
+c0000000052A4EACC000000000000292D
+t1386539724
+s10541
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qdialog.h
+c0000000052A4EACC0000000000000EDA
+t1386539724
+s3802
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qframe.h
+c0000000052A4EACC0000000000000FF9
+t1386539724
+s4089
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qgridlayout.h
+c0000000052A4EACC0000000000001202
+t1386539724
+s4610
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qheaderview.h
+c0000000052A4EACC00000000000027DB
+t1386539724
+s10203
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlabel.h
+c0000000052A4EACC000000000000157C
+t1386539724
+s5500
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlayout.h
+c0000000052A4EACC0000000000001546
+t1386539724
+s5446
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlayoutitem.h
+c0000000052A4EACC00000000000015C5
+t1386539724
+s5573
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlineedit.h
+c0000000052A4EACC00000000000021D4
+t1386539724
+s8660
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmainwindow.h
+c0000000052A4EACC0000000000001BF6
+t1386539724
+s7158
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmenu.h
+c0000000052A4EACC0000000000001B4D
+t1386539724
+s6989
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmenubar.h
+c0000000052A4EACC0000000000001422
+t1386539724
+s5154
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qpushbutton.h
+c0000000052A4EACC0000000000000E10
+t1386539724
+s3600
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qrubberband.h
+c0000000052A4EACC0000000000000CFF
+t1386539724
+s3327
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+c0000000052A4EACC00000000000019BA
+t1386539724
+s6586
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qslider.h
+c0000000052A4EACC0000000000000D71
+t1386539724
+s3441
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qspinbox.h
+c0000000052A4EACC000000000000154B
+t1386539724
+s5451
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qstyle.h
+c0000000052A4EACC000000000000673E
+t1386539724
+s26430
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qstyleoption.h
+c0000000052A4EACC000000000000567F
+t1386539724
+s22143
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabbar.h
+c0000000052A4EACC0000000000001AFD
+t1386539724
+s6909
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabwidget.h
+c0000000052A4EACC00000000000017DA
+t1386539724
+s6106
+
+N/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qwidget.h
+c0000000052A4EACC0000000000006D7A
+t1386539724
+s28026
+
+N/Users/inso/Qt/5.2.0/ios/lib/libQt5Core_iphonesimulator_debug.a
+c0000000052A4EA7B000000000491D5F8
+t1386539643
+s76666360
+
+N/Users/inso/Qt/5.2.0/ios/lib/libQt5Gui_iphonesimulator_debug.a
+c0000000052A4EA9F00000000093BAE08
+t1386539679
+s154906120
+
+N/Users/inso/Qt/5.2.0/ios/lib/libQt5PlatformSupport_iphonesimulator_debug.a
+c0000000052A4EAA500000000005ACF08
+t1386539685
+s5951240
+
+N/Users/inso/Qt/5.2.0/ios/lib/libQt5Widgets_iphonesimulator_debug.a
+c0000000052A4EAC5000000000D3956E0
+t1386539717
+s221861600
+
+N/Users/inso/Qt/5.2.0/ios/plugins/platforms/libqios_iphonesimulator_debug.a
+c0000000052A4EAD6000000000086AD70
+t1386539734
+s8826224
+
+N/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns
+c0000000052E46F0F000000000000CAC3
+t1390702351
+s51907
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app
+t1390707193
+s238
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+t1390707193
+s18594
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Info.plist
+t1390706816
+s605
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/PkgInfo
+t1390706816
+s8
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP
+t1390707192
+s27449160
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP.icns
+t1390706966
+s51907
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Default-568h@2x.png
+c000000005273661000000000000048A2
+t1383294480
+s18594
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist
+c0000000052E4807C0000000000000373
+t1390706812
+s883
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp
+c0000000052E47EF40000000000000F3B
+t1390706420
+s3899
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp
+c0000000052E47EF40000000000000D67
+t1390706420
+s3431
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/*.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o
+t1390706678
+s159592
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o
+t1390706678
+s864668
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o
+t1390706678
+s3576
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o
+t1390706676
+s154272
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o
+t1390706679
+s3128
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o
+t1390706678
+s805120
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o
+t1390706679
+s358652
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o
+t1390706679
+s429780
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP.LinkFileList
+t1390706675
+s1561
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o
+t1390706679
+s426776
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o
+t1390706679
+s179652
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+c0000000052E47FF300000000000000EB
+t1390706675
+s235
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png
+c0000000052E47EF100000000000048A2
+t1390706417
+s18594
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp
+c0000000052E47EF200000000000D4EE8
+t1390706418
+s872168
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/ui_addaccount.h
+c0000000052E47EF40000000000001B45
+t1390706420
+s6981
+
+N/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/ui_mainwindow.h
+c0000000052E47EF400000000000012DD
+t1390706420
+s4829
+
+N/Users/inso/work/otp/inc/Account.h
+c0000000052C7110400000000000000AE
+t1388777732
+s174
+
+N/Users/inso/work/otp/inc/accountconfigfile.h
+c0000000052CCD48100000000000001DE
+t1389155457
+s478
+
+N/Users/inso/work/otp/inc/addaccount.h
+c0000000052C711040000000000000219
+t1388777732
+s537
+
+N/Users/inso/work/otp/inc/configfile.h
+c0000000052C711040000000000000144
+t1388777732
+s324
+
+N/Users/inso/work/otp/inc/mainwindow.h
+c0000000052CCD0560000000000000248
+t1389154390
+s584
+
+N/Users/inso/work/otp/inc/otp.h
+c0000000052CCB8A7000000000000027C
+t1389148327
+s636
+
+N/Users/inso/work/otp/lib/base32.cpp
+c0000000052CA923D0000000000000687
+t1389007421
+s1671
+
+N/Users/inso/work/otp/lib/base32.h
+c0000000052CA923D000000000000056B
+t1389007421
+s1387
+
+N/Users/inso/work/otp/src/accountconfigfile.cpp
+c0000000052D155FB000000000000053F
+t1389450747
+s1343
+
+N/Users/inso/work/otp/src/addaccount.cpp
+c0000000052C73A790000000000000D74
+t1388788345
+s3444
+
+N/Users/inso/work/otp/src/configfile.cpp
+c0000000052CCD74F00000000000002AA
+t1389156175
+s682
+
+N/Users/inso/work/otp/src/main.cpp
+c0000000052E4710A00000000000000E1
+t1390702858
+s225
+
+N/Users/inso/work/otp/src/mainwindow.cpp
+c0000000052CDEEF10000000000000A77
+t1389227761
+s2679
+
+N/Users/inso/work/otp/src/otp.cpp
+c0000000052D3F6F90000000000000CB3
+t1389623033
+s3251
+
+N/usr/lib/libSystem.B.dylib
+c0000000052BB45A1000000000000E6D0
+t1388004769
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052BB45B70000000000012A00
+t1388004791
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052BB4591000000000002E320
+t1388004753
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052BB45A10000000000021860
+t1388004769
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052BB45B6000000000001B620
+t1388004790
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052BB45B600000000000BD920
+t1388004790
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052BB45B7000000000000A120
+t1388004791
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052BB45B7000000000001D550
+t1388004791
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052BB45B50000000000014EE0
+t1388004789
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052BB45B90000000000010380
+t1388004793
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052BB45B9000000000000C4C0
+t1388004793
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052BB45B700000000000357A0
+t1388004791
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052BB45B7000000000000C070
+t1388004791
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052BB45A10000000000168C00
+t1388004769
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052BB45B60000000000010630
+t1388004790
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052BB45B8000000000001DF10
+t1388004792
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052BB45A10000000000075B00
+t1388004769
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052BB45A1000000000007CC70
+t1388004769
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052BB45A100000000000766C0
+t1388004769
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052BB45B70000000000044DC0
+t1388004791
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052BB45A10000000000021FA0
+t1388004769
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052BB45B7000000000002D900
+t1388004791
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052BB45B7000000000001E570
+t1388004791
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052BB45AA000000000000CC70
+t1388004778
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052BB45AF000000000000C3F0
+t1388004783
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052BB45B700000000000199F0
+t1388004791
+s104944
+
+CBuild AST from /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp
+r0
+
+CBuild AST from /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp
+r0
+
+CBuild AST from /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/lib/base32.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/src/accountconfigfile.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/src/addaccount.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/src/configfile.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/src/main.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/src/mainwindow.cpp
+r0
+
+CBuild AST from /Users/inso/work/otp/src/otp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7992bc77b994b841^b9c1bc77b994b841^-176"Warning: Multiple build commands for output file /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png1(21%IDEActivityLogMessage2@175"Warning: Multiple build commands for output file /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png-412399991#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"86818B06-9B24-4B01-AD56-24D1DAF60714-
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o /Users/inso/work/otp/src/accountconfigfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399476.978844
+e412399478.027959
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o
+x/Users/inso/work/otp/src/accountconfigfile.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/src/accountconfigfile.cpp
+d/Users/inso/work/otp/inc/accountconfigfile.h
+d/Users/inso/work/otp/inc/configfile.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/inso/work/otp/src/accountconfigfile.cpp205"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o /Users/inso/work/otp/src/accountconfigfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler5dc5fa74b794b841^41280776b794b841^---0#0#1#-19%DVTDocumentLocation2@53"file:///Users/inso/work/otp/src/accountconfigfile.cpp0000000000000000^3982"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o /Users/inso/work/otp/src/accountconfigfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.dia -c /Users/inso/work/otp/src/accountconfigfile.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o36"79381482-9553-45DB-9D01-E95B8F36BF90-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o /Users/inso/work/otp/src/addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399475.620353
+e412399478.815005
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o
+x/Users/inso/work/otp/src/addaccount.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/src/addaccount.cpp
+d/Users/inso/work/otp/inc/addaccount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QDialog
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qdialog.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrect.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsize.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qregion.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qline.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qimage.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfont.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/inso/work/otp/inc/mainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qicon.h
+d/Users/inso/work/otp/inc/accountconfigfile.h
+d/Users/inso/work/otp/inc/configfile.h
+d/Users/inso/work/otp/inc/Account.h
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/ui_addaccount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QVariant
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvariant.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QAction
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qaction.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qactiongroup.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QApplication
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreevent.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qeventloop.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qguiapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qinputmethod.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlocale.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QButtonGroup
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qbuttongroup.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QComboBox
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qcombobox.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractitemdelegate.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qstyleoption.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractspinbox.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qvalidator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregularexpression.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qslider.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractslider.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qstyle.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabbar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qrubberband.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qframe.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qabstractitemmodel.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QHBoxLayout
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qboxlayout.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlayout.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlayoutitem.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qgridlayout.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QHeaderView
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qheaderview.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractitemview.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractscrollarea.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qitemselectionmodel.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qset.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QLabel
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlabel.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QLineEdit
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlineedit.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtextcursor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtextformat.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpen.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtextoption.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QPushButton
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qpushbutton.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractbutton.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QSpinBox
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qspinbox.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QVBoxLayout
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QDebug
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdebug.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtextstream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontiguouscache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/inso/work/otp/src/addaccount.cpp191"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o /Users/inso/work/otp/src/addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerc3f39e73b794b841^cea5d076b794b841^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/inso/work/otp/src/addaccount.cpp0000000000000000^3940"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o /Users/inso/work/otp/src/addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.dia -c /Users/inso/work/otp/src/addaccount.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o36"E71A836F-134B-477E-A915-54E381CB3025-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o /Users/inso/work/otp/lib/base32.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399478.028690
+e412399478.089101
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o
+x/Users/inso/work/otp/lib/base32.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/lib/base32.cpp
+d/Users/inso/work/otp/lib/base32.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/inso/work/otp/lib/base32.cpp183"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o /Users/inso/work/otp/lib/base32.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler9a7c0776b794b841^54e21676b794b841^---0#0#1#-19%DVTDocumentLocation2@42"file:///Users/inso/work/otp/lib/base32.cpp0000000000000000^3916"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o /Users/inso/work/otp/lib/base32.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.dia -c /Users/inso/work/otp/lib/base32.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o36"37E230F0-40FB-4433-A10C-E82612132A67-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o /Users/inso/work/otp/src/configfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399475.622157
+e412399476.978554
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o
+x/Users/inso/work/otp/src/configfile.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/src/configfile.cpp
+d/Users/inso/work/otp/inc/configfile.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/inso/work/otp/src/configfile.cpp191"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o /Users/inso/work/otp/src/configfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler2b6b9f73b794b841^af5dfa74b794b841^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/inso/work/otp/src/configfile.cpp0000000000000000^3940"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o /Users/inso/work/otp/src/configfile.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.dia -c /Users/inso/work/otp/src/configfile.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o36"D3FE4ACC-7EAE-4227-AAB3-E3F976488384-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o /Users/inso/work/otp/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399475.618729
+e412399477.524478
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o
+x/Users/inso/work/otp/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/src/main.cpp
+d/Users/inso/work/otp/inc/mainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrect.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsize.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qregion.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qline.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qimage.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfont.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qicon.h
+d/Users/inso/work/otp/inc/accountconfigfile.h
+d/Users/inso/work/otp/inc/configfile.h
+d/Users/inso/work/otp/inc/Account.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QApplication
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreevent.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qeventloop.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qguiapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qinputmethod.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlocale.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvariant.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmap.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/inso/work/otp/src/main.cpp179"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o /Users/inso/work/otp/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler4e7f9e73b794b841^b75f8675b794b841^---0#0#1#-19%DVTDocumentLocation2@40"file:///Users/inso/work/otp/src/main.cpp0000000000000000^3904"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o /Users/inso/work/otp/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.dia -c /Users/inso/work/otp/src/main.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o36"BA5C3A13-5F96-4AF9-9D72-BD060036F3CC-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o /Users/inso/work/otp/src/mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399475.619183
+e412399478.432016
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o
+x/Users/inso/work/otp/src/mainwindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/src/mainwindow.cpp
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/QKeyEvent
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qevent.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qregion.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrect.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsize.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreevent.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvariant.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qset.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qurl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfile.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfiledevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qvector2d.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtouchdevice.h
+d/Users/inso/work/otp/inc/mainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qline.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qimage.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfont.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qicon.h
+d/Users/inso/work/otp/inc/accountconfigfile.h
+d/Users/inso/work/otp/inc/configfile.h
+d/Users/inso/work/otp/inc/Account.h
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/ui_mainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QVariant
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QAction
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qaction.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qactiongroup.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QApplication
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcoreapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qeventloop.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qguiapplication.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qinputmethod.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlocale.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QButtonGroup
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qbuttongroup.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QComboBox
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qcombobox.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractitemdelegate.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qstyleoption.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractspinbox.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qvalidator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregularexpression.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qslider.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractslider.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qstyle.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabbar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qrubberband.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qframe.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qabstractitemmodel.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QHBoxLayout
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qboxlayout.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlayout.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlayoutitem.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qgridlayout.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QHeaderView
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qheaderview.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractitemview.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractscrollarea.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qitemselectionmodel.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QLabel
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qlabel.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMenu
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmenu.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMenuBar
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmenubar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QPushButton
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qpushbutton.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qabstractbutton.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QVBoxLayout
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QWidget
+d/Users/inso/work/otp/inc/addaccount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QDialog
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qdialog.h
+d/Users/inso/work/otp/inc/otp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QDebug
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdebug.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtextstream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontiguouscache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/inso/work/otp/src/mainwindow.cpp191"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o /Users/inso/work/otp/src/mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilera1bd9e73b794b841^e38b6e76b794b841^---0#0#1#-19%DVTDocumentLocation2@46"file:///Users/inso/work/otp/src/mainwindow.cpp0000000000000000^3940"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o /Users/inso/work/otp/src/mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.dia -c /Users/inso/work/otp/src/mainwindow.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o36"3F651175-2329-4F8D-A5A0-F86F245516FC-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399478.816037
+e412399479.926764
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp
+d/Users/inso/work/otp/inc/addaccount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QDialog
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qdialog.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrect.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsize.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qregion.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qline.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qimage.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfont.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qkeysequence.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp174"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o moc_addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler800cd176b794b841^a741ed77b794b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp0000000000000000^3987"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o moc_addaccount.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.dia -c /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_addaccount.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o36"E28909F4-9C81-4E9A-AA53-DB8415326352-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399478.433005
+e412399479.760963
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp
+d/Users/inso/work/otp/inc/mainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/QMainWindow
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qmainwindow.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qwindowdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmargins.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrect.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsize.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpoint.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpaintdevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpalette.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcolor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qrgb.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qbrush.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qmatrix.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpolygon.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qregion.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qline.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qtransform.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpainterpath.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qimage.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qpixmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsharedpointer_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfont.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontmetrics.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qfontinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qsizepolicy.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qcursor.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qkeysequence.h
+d/Users/inso/Qt/5.2.0/ios/include/QtWidgets/qtabwidget.h
+d/Users/inso/Qt/5.2.0/ios/include/QtGui/qicon.h
+d/Users/inso/work/otp/inc/accountconfigfile.h
+d/Users/inso/work/otp/inc/configfile.h
+d/Users/inso/work/otp/inc/Account.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp174"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler2aff6e76b794b841^4ed0c277b794b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp0000000000000000^3987"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o moc_mainwindow.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.dia -c /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/moc_mainwindow.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o36"7D6D7BEB-73BC-4257-A1EE-6C13030E3230-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o /Users/inso/work/otp/src/otp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399477.525418
+e412399479.564904
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o
+x/Users/inso/work/otp/src/otp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/work/otp/src/otp.cpp
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QMessageAuthenticationCode
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmessageauthenticationcode.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcryptographichash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbytearray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qrefcount.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qnamespace.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qarraydata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QCryptographicHash
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QString
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstring.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qchar.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/QDebug
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdebug.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qalgorithms.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qhash.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiterator.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qpair.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmap.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtextstream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qiodevice.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobjectdefs_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qscopedpointer.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmetatype.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvarlengtharray.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontainerfwd.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qisenum.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qobject_impl.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlocale.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvariant.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringlist.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qdatastream.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qregexp.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qstringmatcher.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qshareddata.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qvector.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qset.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcontiguouscache.h
+d/Users/inso/work/otp/inc/otp.h
+d/Users/inso/work/otp/lib/base32.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/inso/work/otp/src/otp.cpp177"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o /Users/inso/work/otp/src/otp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb1a68675b794b841^459e9077b794b841^---0#0#1#-19%DVTDocumentLocation2@39"file:///Users/inso/work/otp/src/otp.cpp0000000000000000^3898"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o /Users/inso/work/otp/src/otp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.dia -c /Users/inso/work/otp/src/otp.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o36"FF94E46C-76BF-42F6-BF86-82521B105CF2-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412399478.089432
+e412399479.132634
+r1
+xCompileC
+xoathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobal.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qconfig.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qfeatures.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsystemdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qprocessordetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qglobalstatic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qbasicatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qatomic_x86.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qgenericatomic.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qmutex.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qlogging.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qflags.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypeinfo.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qtypetraits.h
+d/Users/inso/Qt/5.2.0/ios/include/QtCore/qsysinfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp172"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o qrc_ressource.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler42091776b794b841^80f42177b794b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp0000000000000000^3981"CompileC oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o qrc_ressource.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP.hmap -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include -I/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios -I../work/otp/inc -I../work/otp/lib -I../Qt/5.2.0/ios/include -I../Qt/5.2.0/ios/include/QtWidgets -I../Qt/5.2.0/ios/include/QtGui -I../Qt/5.2.0/ios/include/QtCore -I. -I. -I. -I../Qt/5.2.0/ios/mkspecs/macx-ios-clang -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources/i386 -I/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -MMD -MT dependencies -MF /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.d --serialize-diagnostics /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.dia -c /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o36"CEEB0FBF-C9CC-41CB-BD65-C7FA1DE0836F-
+bE4C5C0D8-8849-4A91-9024-F7C4B128B76C
+
+CCpResource /Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icns
+s412399766.225951
+e412399766.227165
+r1
+xCpResource
+x/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns
+xDebug-iphonesimulator/oathOTP.app/oathOTP.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy Debug-iphonesimulator/oathOTP.app/oathOTP.icns164"CpResource /Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icnsddea3996b894b841^78283a96b894b841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP.icns0034ec46ddffdf42^766"CpResource /Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icns    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app36"0003E86D-DF17-44B2-8B3D-C51C9D98DFAF-
+b3C001704-4694-4B57-9E3E-C16F16865A29
+
+CCpResource Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+s412399993.008471
+e412399993.009478
+r1
+xCpResource
+xDefault-568h@2x.png
+xDebug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png84"CpResource Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png0d390279b994b841^336e0279b994b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png0000000000000000^672"CpResource Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Default-568h@2x.png /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app36"4F790DE7-8467-4CD2-8BAE-C9B00922AC53-
+b59E093F8-745F-484D-AA3B-B2BDBA9CF6CF
+
+CCpResource Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icns
+s412399726.926157
+e412399726.927596
+r0
+xCpResource
+xUsers/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns
+xDebug-iphonesimulator/oathOTP.app/oathOTP.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy Debug-iphonesimulator/oathOTP.app/oathOTP.icns163"CpResource Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icns842aed6eb894b841^8a76ed6eb894b841^-213"error: /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns: No such file or directory1(21%IDEActivityLogMessage2@212"error: /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns: No such file or directory-412399726#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#11"PBXCp Error--0#0#1#-19%DVTDocumentLocation4@126"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP.icns0034ec46ddffdf42^837"CpResource Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns Debug-iphonesimulator/oathOTP.app/oathOTP.icns    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app36"1BF93726-DEC5-4811-A84A-AC4622BD9812-
+b48DDC050-1CB5-4CAA-A0C9-BE3FE6811C18
+
+CCpResource oathOTP.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+s412399789.895559
+e412399789.896668
+r1
+xCpResource
+xoathOTP.xcodeproj/Default-568h@2x.png
+xDebug-iphonesimulator/oathOTP.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png102"CpResource oathOTP.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.pngd256e5adb894b841^d28ce5adb894b841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png0000000000000000^708"CpResource oathOTP.xcodeproj/Default-568h@2x.png Debug-iphonesimulator/oathOTP.app/Default-568h@2x.png    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app36"1B4CE2D1-8E3C-49A4-91A2-72CB3EF7BAB9-
+b1D3E476A-C5EC-43A6-A6CC-3107D84728B9
+
+CLd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP normal i386
+s412399991.819860
+e412399993.007133
+r1
+xLd
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP
+xnormal
+xi386
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/main.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/mainwindow.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/addaccount.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/configfile.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/accountconfigfile.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/otp.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/base32.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/qrc_ressource.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_mainwindow.o
+d/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/moc_addaccount.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libm.dylib
+d/Users/inso/Qt/5.2.0/ios/plugins/platforms/libqios_iphonesimulator_debug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/inso/Qt/5.2.0/ios/lib/libQt5PlatformSupport_iphonesimulator_debug.a
+d/Users/inso/Qt/5.2.0/ios/lib/libQt5Widgets_iphonesimulator_debug.a
+d/Users/inso/Qt/5.2.0/ios/lib/libQt5Gui_iphonesimulator_debug.a
+d/Users/inso/Qt/5.2.0/ios/lib/libQt5Core_iphonesimulator_debug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP56"Ld Debug-iphonesimulator/oathOTP.app/oathOTP normal i38678f2d177b994b841^ccd30179b994b841^---0#0#1#--2100"Ld Debug-iphonesimulator/oathOTP.app/oathOTP normal i386    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -L/Users/inso/Qt/5.2.0/ios/plugins/platforms -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks -L/Users/inso/Qt/5.2.0/ios/lib -F/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator -filelist /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -headerpad_max_install_names -stdlib=libc++ -u _qt_registerPlatformPlugin -L/Users/inso/Qt/5.2.0/ios/plugins/platforms -framework UIKit -L/Users/inso/Qt/5.2.0/ios/lib -framework OpenGLES -lz -lm -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -lqios_iphonesimulator_debug -framework Foundation -framework QuartzCore -framework CoreFoundation -framework CoreText -framework CoreGraphics -lQt5PlatformSupport_iphonesimulator_debug -lQt5Widgets_iphonesimulator_debug -lQt5Gui_iphonesimulator_debug -lQt5Core_iphonesimulator_debug -Xlinker -dependency_info -Xlinker /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP_dependency_info.dat -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/oathOTP36"4187DABF-97D7-47ED-BA48-A3FA4B3D0FC6-
+b59E093F8-745F-484D-AA3B-B2BDBA9CF6CF
+
+CPhaseScriptExecution Qt\ Prelink /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+s412399991.741670
+e412399991.818159
+r1
+xPhaseScriptExecution
+xQt Prelink
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Qt Prelink'117"PhaseScriptExecution Qt\ Prelink oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh45a0be77b994b841^2e74d177b994b841^---0#0#1#--24850"PhaseScriptExecution Qt\ Prelink oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER inso    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv ALWAYS_USE_SEPARATE_HEADERMAPS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD i386    setenv ARCHS_STANDARD_32_64_BIT i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv ARCHS_STANDARD_INCLUDING_64_BIT "i386 x86_64"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv BUILD_ROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/x8/dg1mmcqx0q3d7bf51bmqs0_40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang    setenv CCHROOT /var/folders/x8/dg1mmcqx0q3d7bf51bmqs0_40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneSimulatorCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COLOR_DIAGNOSTICS NO    setenv COMBINE_HIDPI_IMAGES NO    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/x8/dg1mmcqx0q3d7bf51bmqs0_40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH oathOTP.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CREATE_INFOPLIST_SECTION_IN_BINARY NO    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEFAULT_KEXT_INSTALL_PATH /System/Library/Extensions    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH oathOTP.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/oathOTP.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME oathOTP.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator    setenv DYLIB_COMPATIBILITY_VERSION 1.0    setenv DYLIB_CURRENT_VERSION 1.0.0    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH oathOTP.app/Executables    setenv EXECUTABLE_FOLDER_PATH oathOTP.app    setenv EXECUTABLE_NAME oathOTP    setenv EXECUTABLE_PATH oathOTP.app/oathOTP    setenv FILE_LIST /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH oathOTP.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME oathOTP.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/include /Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios ../work/otp/inc ../work/otp/lib ../Qt/5.2.0/ios/include ../Qt/5.2.0/ios/include/QtWidgets ../Qt/5.2.0/ios/include/QtGui ../Qt/5.2.0/ios/include/QtCore . . . ../Qt/5.2.0/ios/mkspecs/macx-ios-clang"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH oathOTP.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH oathOTP.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/oathOTP.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER inso    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/oathOTP.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH oathOTP.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LDPLUSPLUS /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++    setenv LD_DEPENDENCY_INFO_FILE /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP_dependency_info.dat    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/oathOTP-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER YES    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_KEXT_INSTALL_PATH /Library/Extensions    setenv LIBRARY_SEARCH_PATHS "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator /Users/inso/Qt/5.2.0/ios/plugins/platforms /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks /Users/inso/Qt/5.2.0/ios/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH oathOTP.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 13B42    setenv MAC_OS_X_VERSION_ACTUAL 1091    setenv MAC_OS_X_VERSION_MAJOR 1090    setenv MAC_OS_X_VERSION_MINOR 0901    setenv MODULE_CACHE_DIR /Users/inso/Library/Developer/Xcode/DerivedData/ModuleCache    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal    setenv OBJROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -O2 -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -fvisibility=hidden -fpascal-strings -fmessage-length=0 -Wno-trigraphs -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-sign-conversion -fexceptions -fasm-blocks -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wno-unused-function -Wno-unused-label -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wpointer-sign -Wno-newline-eof -Wdeprecated-declarations -Winvalid-offsetof -Wno-conversion -fvisibility-inlines-hidden -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -O2 -std=c++11 -stdlib=libc++ -Wall -W -fPIE -DDARWIN_NO_CARBON -DQT_NO_PRINTER -DQT_NO_PRINTDIALOG -DCRYPTOPP_DISABLE_ASM -DCRYPTOPP_DISABLE_SSE2 -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -stdlib=libc++ -u _qt_registerPlatformPlugin -L/Users/inso/Qt/5.2.0/ios/plugins/platforms -framework UIKit -L/Users/inso/Qt/5.2.0/ios/lib -framework OpenGLES -lz -lm"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH oathOTP.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/PkgInfo    setenv PKGINFO_PATH oathOTP.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 11B508    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 70000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH oathOTP.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH oathOTP.app/PrivateHeaders    setenv PRODUCT_NAME oathOTP    setenv PRODUCT_SETTINGS_PATH /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT oathOTP    setenv PROJECT_DERIVED_FILE_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/DerivedSources    setenv PROJECT_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PROJECT_FILE_PATH /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj    setenv PROJECT_NAME oathOTP    setenv PROJECT_TEMP_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build    setenv PROJECT_TEMP_ROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PUBLIC_HEADERS_FOLDER_PATH oathOTP.app/Headers    setenv QT_LIBRARY_SUFFIX _iphonesimulator_debug    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator "    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH oathOTP.app/Scripts    setenv SCRIPT_INPUT_FILE_0 "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/*.o"    setenv SCRIPT_INPUT_FILE_COUNT 1    setenv SCRIPT_OUTPUT_FILE_0 /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Objects-normal/i386/oathOTP.LinkFileList    setenv SCRIPT_OUTPUT_FILE_COUNT 1    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    setenv SDK_NAME iphonesimulator7.0    setenv SDK_PRODUCT_BUILD_VERSION 11B508    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH oathOTP.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/x8/dg1mmcqx0q3d7bf51bmqs0_40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH oathOTP.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv SRCROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_KEXT_INSTALL_PATH /System/Library/Extensions    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME oathOTP    setenv TARGET_BUILD_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator    setenv TARGET_NAME oathOTP    setenv TARGET_TEMP_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build    setenv TEMP_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build    setenv TEMP_FILES_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build    setenv TEMP_FILE_DIR /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build    setenv TEMP_ROOT /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH oathOTP.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER inso    setenv USER_APPS_DIR /Users/inso/Applications    setenv USER_LIBRARY_DIR /Users/inso/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH oathOTP.app/version.plist    setenv VERSION_INFO_BUILDER inso    setenv VERSION_INFO_FILE oathOTP_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:oathOTP  PROJECT:oathOTP-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME oathOTP.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 5A3005    setenv XCODE_VERSION_ACTUAL 0502    setenv XCODE_VERSION_MAJOR 0500    setenv XCODE_VERSION_MINOR 0500    setenv XPCSERVICES_FOLDER_PATH oathOTP.app/XPCServices    setenv YACC yacc    setenv arch i386    setenv variant normal    /bin/sh -c /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.build/Debug-iphonesimulator/oathOTP.build/Script-3DA90DAE39A0C9D07C6F6B0F.sh36"398042C5-4E9A-4572-A481-E21707050055-
+b59E093F8-745F-484D-AA3B-B2BDBA9CF6CF
+
+CProcessInfoPlistFile /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Info.plist /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist
+s412399616.368955
+e412399616.370568
+r1
+xProcessInfoPlistFile
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Info.plist
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Process /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist76"ProcessInfoPlistFile Debug-iphonesimulator/oathOTP.app/Info.plist Info.plist56815e00b894b841^f0dd5e00b894b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist0000000000000000^775"ProcessInfoPlistFile Debug-iphonesimulator/oathOTP.app/Info.plist Info.plist    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Info.plist -genpkginfo /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app/Info.plist36"D1F6816C-D99E-4C5C-9F08-7E5D2081D34F-
+b424BDAA5-256B-48FF-80A8-8E2D6C1418A0
+
+CTouch /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app
+s412399993.010058
+e412399993.014520
+r1
+xTouch
+x/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app39"Touch Debug-iphonesimulator/oathOTP.app45a00279b994b841^bfb90379b994b841^---0#0#1#--444"Touch Debug-iphonesimulator/oathOTP.app    cd /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/Debug-iphonesimulator/oathOTP.app36"461BE071-D892-401A-A4B8-F2F50B917696-
+b59E093F8-745F-484D-AA3B-B2BDBA9CF6CF
+

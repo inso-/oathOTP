@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/ressource">
+        <file>ressource/oathOTP-16.png</file>
+        <file>ressource/oathOTP-32.png</file>
+        <file>ressource/oathOTP-48.png</file>
+        <file>ressource/oathOTP-64.png</file>
+        <file>ressource/oathOTP-96.png</file>
+        <file>ressource/oathOTP-128.png</file>
+        <file>ressource/oathOTP.ico</file>
+        <file>ressource/oathOTP.hqx</file>
+        <file>ressource/oathOTP.icns</file>
+    </qresource>
+</RCC>

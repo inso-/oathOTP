@@ -1,0 +1,862 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		CF27B0065364134F46BDB880 /* Qt Preprocess */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 6CC3B5D2136C7CD6A5CF5A59 /* Build configuration list for PBXNativeTarget "oathOTP" */;
+			buildPhases = (
+				5E618435888B9D49F8540165 /* Qt Qmake */,
+				7EF0942E79C014DCEC8976BC /* Qt Preprocessors */,
+			);
+			dependencies = (
+			);
+			name = "Qt Preprocess";
+			productName = "Qt Preprocess";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		0CE02722F00CAD43741297B5 /* CoreGraphics.framework in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 6AE3EC31EE5BB1FCEE84137C /* CoreGraphics.framework */; };
+		23AEF186181EC00490E59674 /* base32.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = 9AC55FBF18C16D8788986877 /* base32.cpp */; settings = {ATTRIBUTES = (); }; };
+		2B02D9DC58A01E45248DDBCE /* CoreText.framework in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 7D7B02101166B76FD2D4F8B4 /* CoreText.framework */; };
+		2F9983ACB124B74F32685F47 /* moc_mainwindow.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = 721C1DE06B327393E3F7D7E1 /* moc_mainwindow.cpp */; settings = {ATTRIBUTES = (); }; };
+		335DC13200FD5A0F35D8917A /* qrc_ressource.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = FF61EC1CEA469657E48BB441 /* qrc_ressource.cpp */; settings = {ATTRIBUTES = (); }; };
+		3B3A46901FAE3D21191D87EE /* addaccount.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = 59159DD005781D7E97835851 /* addaccount.cpp */; settings = {ATTRIBUTES = (); }; };
+		5A65273C98FF03BCC697AE0E /* configfile.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = 2753E9623301F3093B5D791F /* configfile.cpp */; settings = {ATTRIBUTES = (); }; };
+		6199C2967CAFB2B75BAB10ED /* Qt5PlatformSupport in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 3CB7482B840D31F8730D5A60 /* Qt5PlatformSupport */; };
+		651FFFF917FA637922123C6C /* Qt5Core in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 36A0021A04864EE08327A15C /* Qt5Core */; };
+		6C049B0ED8D0ED2C9162A106 /* main.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = 579695E33C164EFDC71EB54B /* main.cpp */; settings = {ATTRIBUTES = (); }; };
+		817FBF897569FE659FA6CA59 /* moc_addaccount.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = D7575D63218752481D3EAC3F /* moc_addaccount.cpp */; settings = {ATTRIBUTES = (); }; };
+		9BD05C951679B0FCFF468C1A /* Qt5Gui in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = A386CADD451D5548ED853B5C /* Qt5Gui */; };
+		B460F624007324313696BE86 /* QuartzCore.framework in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 7EC00404ACD5AB0E97726B0E /* QuartzCore.framework */; };
+		BE1AEB4FA60218B0D9CC730F /* /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png in Copy Bundle Resources */ = {isa = PBXBuildFile; fileRef = ED9D90A228B96BE806601BF1 /* /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png */; };
+		C28E7A1872B001D1E1749C89 /* mainwindow.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = C987941BBB44AABA66B3FE26 /* mainwindow.cpp */; settings = {ATTRIBUTES = (); }; };
+		C3BAE582EA9DB5A4FD014528 /* otp.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = C05135049968BE3596BC3516 /* otp.cpp */; settings = {ATTRIBUTES = (); }; };
+		CDEABD16E9991F196AA439B5 /* Qt5Widgets in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = AB8F8F1800AC1CE4F938BB39 /* Qt5Widgets */; };
+		CE1804B7522042E23200C918 /* accountconfigfile.cpp in Compile Sources */ = {isa = PBXBuildFile; fileRef = BA40B68B5C9931895767FA8E /* accountconfigfile.cpp */; settings = {ATTRIBUTES = (); }; };
+		DC94957ECDF46EDA0B7F0577 /* qios in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 2248FB7B759A7D592603E299 /* qios */; };
+		E6A982F91894B7920003686D /* Default-568h@2x.png in Copy Bundle Resources */ = {isa = PBXBuildFile; fileRef = E6A982F81894B7920003686D /* Default-568h@2x.png */; };
+		E6A982FB1894B8680003686D /* oathOTP.icns in Copy Bundle Resources */ = {isa = PBXBuildFile; fileRef = E6A982FA1894B8680003686D /* oathOTP.icns */; };
+		F26454630C80841CBDCFE1CA /* Foundation.framework in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = FCC237CA5AD60B9BA4447615 /* Foundation.framework */; };
+		F8B465CE34D8DF87AAE95913 /* CoreFoundation.framework in Link Binary With Libraries */ = {isa = PBXBuildFile; fileRef = 4D765E1B1EA6C757220C63E7 /* CoreFoundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E6A982F71894B76E0003686D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6DB9C3763D02B1415CD9D565 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CF27B0065364134F46BDB880;
+			remoteInfo = "Qt Preprocess";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0F2C2C41D8003846A3A6DF55 /* mainwindow.ui */ = {isa = PBXFileReference; lastKnownFileType = file; name = mainwindow.ui; path = ../work/otp/forms/mainwindow.ui; sourceTree = "<absolute>"; };
+		14C9776A4B2E34DB51106724 /* ui_mainwindow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ui_mainwindow.h; sourceTree = "<absolute>"; };
+		2248FB7B759A7D592603E299 /* qios */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = qios; path = "../Qt/5.2.0/ios/plugins/platforms/libqios$(QT_LIBRARY_SUFFIX).a"; sourceTree = "<absolute>"; };
+		2753E9623301F3093B5D791F /* configfile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = configfile.cpp; path = ../work/otp/src/configfile.cpp; sourceTree = "<absolute>"; };
+		3552C4C9CFBD3D8032163AD7 /* addaccount.ui */ = {isa = PBXFileReference; lastKnownFileType = file; name = addaccount.ui; path = ../work/otp/forms/addaccount.ui; sourceTree = "<absolute>"; };
+		36A0021A04864EE08327A15C /* Qt5Core */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = Qt5Core; path = "../Qt/5.2.0/ios/lib/libQt5Core$(QT_LIBRARY_SUFFIX).a"; sourceTree = "<absolute>"; };
+		3CB7482B840D31F8730D5A60 /* Qt5PlatformSupport */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = Qt5PlatformSupport; path = "../Qt/5.2.0/ios/lib/libQt5PlatformSupport$(QT_LIBRARY_SUFFIX).a"; sourceTree = "<absolute>"; };
+		3FE5969F04B298895CEDFE97 /* oathOTP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = oathOTP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		423CF1CE30DF68E3E7830210 /* mainwindow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = mainwindow.h; path = ../work/otp/inc/mainwindow.h; sourceTree = "<absolute>"; };
+		4D765E1B1EA6C757220C63E7 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = /System/Library/Frameworks/CoreFoundation.framework; sourceTree = "<absolute>"; };
+		579695E33C164EFDC71EB54B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../work/otp/src/main.cpp; sourceTree = "<absolute>"; };
+		59159DD005781D7E97835851 /* addaccount.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = addaccount.cpp; path = ../work/otp/src/addaccount.cpp; sourceTree = "<absolute>"; };
+		6A74FB7F256056B35F01A904 /* ressource.qrc */ = {isa = PBXFileReference; lastKnownFileType = text; name = ressource.qrc; path = ../work/otp/ressource.qrc; sourceTree = "<absolute>"; };
+		6AE3EC31EE5BB1FCEE84137C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = /System/Library/Frameworks/CoreGraphics.framework; sourceTree = "<absolute>"; };
+		721C1DE06B327393E3F7D7E1 /* moc_mainwindow.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = moc_mainwindow.cpp; sourceTree = "<absolute>"; };
+		7D7B02101166B76FD2D4F8B4 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = /System/Library/Frameworks/CoreText.framework; sourceTree = "<absolute>"; };
+		7EC00404ACD5AB0E97726B0E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = /System/Library/Frameworks/QuartzCore.framework; sourceTree = "<absolute>"; };
+		9AC55FBF18C16D8788986877 /* base32.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = base32.cpp; path = ../work/otp/lib/base32.cpp; sourceTree = "<absolute>"; };
+		A35A39160F63DC47D70DE739 /* accountconfigfile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = accountconfigfile.h; path = ../work/otp/inc/accountconfigfile.h; sourceTree = "<absolute>"; };
+		A386CADD451D5548ED853B5C /* Qt5Gui */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = Qt5Gui; path = "../Qt/5.2.0/ios/lib/libQt5Gui$(QT_LIBRARY_SUFFIX).a"; sourceTree = "<absolute>"; };
+		AB8F8F1800AC1CE4F938BB39 /* Qt5Widgets */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = Qt5Widgets; path = "../Qt/5.2.0/ios/lib/libQt5Widgets$(QT_LIBRARY_SUFFIX).a"; sourceTree = "<absolute>"; };
+		AD20B737ECE858AA3DE8CE8E /* addaccount.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = addaccount.h; path = ../work/otp/inc/addaccount.h; sourceTree = "<absolute>"; };
+		BA40B68B5C9931895767FA8E /* accountconfigfile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = accountconfigfile.cpp; path = ../work/otp/src/accountconfigfile.cpp; sourceTree = "<absolute>"; };
+		C05135049968BE3596BC3516 /* otp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = otp.cpp; path = ../work/otp/src/otp.cpp; sourceTree = "<absolute>"; };
+		C987941BBB44AABA66B3FE26 /* mainwindow.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mainwindow.cpp; path = ../work/otp/src/mainwindow.cpp; sourceTree = "<absolute>"; };
+		CD0E3F4745B5C2E2EF3DB5BB /* Account.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Account.h; path = ../work/otp/inc/Account.h; sourceTree = "<absolute>"; };
+		D7575D63218752481D3EAC3F /* moc_addaccount.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = moc_addaccount.cpp; sourceTree = "<absolute>"; };
+		D9BAAA40873B34094C2B10CF /* otp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = otp.h; path = ../work/otp/inc/otp.h; sourceTree = "<absolute>"; };
+		E6A982F81894B7920003686D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = SOURCE_ROOT; };
+		E6A982FA1894B8680003686D /* oathOTP.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = oathOTP.icns; path = "/Users/inso/build-authOTP-Desktop_Qt_5_2_0_clang_64bit-Release/oathOTP.app/Contents/Resources/oathOTP.icns"; sourceTree = "<absolute>"; };
+		ECFC4246591B519B8E407EA3 /* base32.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = base32.h; path = ../work/otp/lib/base32.h; sourceTree = "<absolute>"; };
+		ED9D90A228B96BE806601BF1 /* /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png"; sourceTree = "<absolute>"; };
+		F7B187B054E7D10ACA9C48FF /* ui_addaccount.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ui_addaccount.h; sourceTree = "<absolute>"; };
+		F8C9165DD9306F098BA978ED /* authOTP.pro */ = {isa = PBXFileReference; lastKnownFileType = text; name = authOTP.pro; path = ../work/otp/authOTP.pro; sourceTree = "<absolute>"; };
+		FA0871B21860607488C73C83 /* configfile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = configfile.h; path = ../work/otp/inc/configfile.h; sourceTree = "<absolute>"; };
+		FCC237CA5AD60B9BA4447615 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		FF61EC1CEA469657E48BB441 /* qrc_ressource.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = qrc_ressource.cpp; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D1C883685E82D5676953459A /* Link Binary With Libraries */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC94957ECDF46EDA0B7F0577 /* qios in Link Binary With Libraries */,
+				F26454630C80841CBDCFE1CA /* Foundation.framework in Link Binary With Libraries */,
+				B460F624007324313696BE86 /* QuartzCore.framework in Link Binary With Libraries */,
+				F8B465CE34D8DF87AAE95913 /* CoreFoundation.framework in Link Binary With Libraries */,
+				2B02D9DC58A01E45248DDBCE /* CoreText.framework in Link Binary With Libraries */,
+				0CE02722F00CAD43741297B5 /* CoreGraphics.framework in Link Binary With Libraries */,
+				6199C2967CAFB2B75BAB10ED /* Qt5PlatformSupport in Link Binary With Libraries */,
+				CDEABD16E9991F196AA439B5 /* Qt5Widgets in Link Binary With Libraries */,
+				9BD05C951679B0FCFF468C1A /* Qt5Gui in Link Binary With Libraries */,
+				651FFFF917FA637922123C6C /* Qt5Core in Link Binary With Libraries */,
+			);
+			name = "Link Binary With Libraries";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		01477C04B53689AAC81D0CBF /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				9AC55FBF18C16D8788986877 /* base32.cpp */,
+				ECFC4246591B519B8E407EA3 /* base32.h */,
+			);
+			name = lib;
+			sourceTree = "<Group>";
+		};
+		0CC13FE95BACD24F96090D4F /* work */ = {
+			isa = PBXGroup;
+			children = (
+				F28A832768EACB5EB563E82A /* otp */,
+			);
+			name = work;
+			sourceTree = "<Group>";
+		};
+		0FF37FA863247F1F9B93C649 /* inc */ = {
+			isa = PBXGroup;
+			children = (
+				423CF1CE30DF68E3E7830210 /* mainwindow.h */,
+				AD20B737ECE858AA3DE8CE8E /* addaccount.h */,
+				CD0E3F4745B5C2E2EF3DB5BB /* Account.h */,
+				FA0871B21860607488C73C83 /* configfile.h */,
+				A35A39160F63DC47D70DE739 /* accountconfigfile.h */,
+				D9BAAA40873B34094C2B10CF /* otp.h */,
+			);
+			name = inc;
+			sourceTree = "<Group>";
+		};
+		10397AD6F11A8A2862C4D57B /* otp */ = {
+			isa = PBXGroup;
+			children = (
+				DF89C5F138C66B1489D2F6B0 /* forms */,
+			);
+			name = otp;
+			sourceTree = "<Group>";
+		};
+		1250C00E096697C35A2F4DF5 /* work */ = {
+			isa = PBXGroup;
+			children = (
+				FD3158A0BFE4E3685C389C29 /* otp */,
+			);
+			name = work;
+			sourceTree = "<Group>";
+		};
+		12E908B8A1C3C07C115504F5 /* Sources [uic] */ = {
+			isa = PBXGroup;
+			children = (
+				3B3F738D630545A64DD05AC0 /* .. */,
+			);
+			name = "Sources [uic]";
+			sourceTree = "<Group>";
+		};
+		25B08E2869634E9BCBA333A2 /* Generated Sources */ = {
+			isa = PBXGroup;
+			children = (
+				FF61EC1CEA469657E48BB441 /* qrc_ressource.cpp */,
+				721C1DE06B327393E3F7D7E1 /* moc_mainwindow.cpp */,
+				D7575D63218752481D3EAC3F /* moc_addaccount.cpp */,
+				14C9776A4B2E34DB51106724 /* ui_mainwindow.h */,
+				F7B187B054E7D10ACA9C48FF /* ui_addaccount.h */,
+			);
+			name = "Generated Sources";
+			sourceTree = "<Group>";
+		};
+		2EB56BE3C2D93CDAB0C52E67 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				5ADDF1BA7F6260E6AA5739ED /* .. */,
+			);
+			name = Sources;
+			sourceTree = "<Group>";
+		};
+		3B3F738D630545A64DD05AC0 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				620A07F25E45CFAF7553C965 /* work */,
+			);
+			name = ..;
+			sourceTree = "<Group>";
+		};
+		3DC6F2D606F34775F4E80502 /* otp */ = {
+			isa = PBXGroup;
+			children = (
+				6A74FB7F256056B35F01A904 /* ressource.qrc */,
+			);
+			name = otp;
+			sourceTree = "<Group>";
+		};
+		5ADDF1BA7F6260E6AA5739ED /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				1250C00E096697C35A2F4DF5 /* work */,
+			);
+			name = ..;
+			sourceTree = "<Group>";
+		};
+		620A07F25E45CFAF7553C965 /* work */ = {
+			isa = PBXGroup;
+			children = (
+				10397AD6F11A8A2862C4D57B /* otp */,
+			);
+			name = work;
+			sourceTree = "<Group>";
+		};
+		66A5A0E22B29A250E947B5E4 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				579695E33C164EFDC71EB54B /* main.cpp */,
+				C987941BBB44AABA66B3FE26 /* mainwindow.cpp */,
+				59159DD005781D7E97835851 /* addaccount.cpp */,
+				2753E9623301F3093B5D791F /* configfile.cpp */,
+				BA40B68B5C9931895767FA8E /* accountconfigfile.cpp */,
+				C05135049968BE3596BC3516 /* otp.cpp */,
+			);
+			name = src;
+			sourceTree = "<Group>";
+		};
+		74B182DB50CB5611B5C1C297 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A3E1AA9917EC82D3446C262A /* .. */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<Group>";
+		};
+		858FCAB0EB1F29CF8B07677C /* Bundle Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E6A982FA1894B8680003686D /* oathOTP.icns */,
+				ED9D90A228B96BE806601BF1 /* /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png */,
+			);
+			name = "Bundle Resources";
+			sourceTree = "<Group>";
+		};
+		87DF60DE337FB58864343E39 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8DFAB9C8B16410B121704055 /* .. */,
+			);
+			name = Resources;
+			sourceTree = "<Group>";
+		};
+		8DFAB9C8B16410B121704055 /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				D31F0A2FD1EB79264798CE5E /* work */,
+			);
+			name = ..;
+			sourceTree = "<Group>";
+		};
+		A3E1AA9917EC82D3446C262A /* .. */ = {
+			isa = PBXGroup;
+			children = (
+				0CC13FE95BACD24F96090D4F /* work */,
+			);
+			name = ..;
+			sourceTree = "<Group>";
+		};
+		AF39DD055C3EF8226FBE929D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2248FB7B759A7D592603E299 /* qios */,
+				FCC237CA5AD60B9BA4447615 /* Foundation.framework */,
+				7EC00404ACD5AB0E97726B0E /* QuartzCore.framework */,
+				4D765E1B1EA6C757220C63E7 /* CoreFoundation.framework */,
+				7D7B02101166B76FD2D4F8B4 /* CoreText.framework */,
+				6AE3EC31EE5BB1FCEE84137C /* CoreGraphics.framework */,
+				3CB7482B840D31F8730D5A60 /* Qt5PlatformSupport */,
+				AB8F8F1800AC1CE4F938BB39 /* Qt5Widgets */,
+				A386CADD451D5548ED853B5C /* Qt5Gui */,
+				36A0021A04864EE08327A15C /* Qt5Core */,
+			);
+			name = Frameworks;
+			sourceTree = "<Group>";
+		};
+		D31F0A2FD1EB79264798CE5E /* work */ = {
+			isa = PBXGroup;
+			children = (
+				3DC6F2D606F34775F4E80502 /* otp */,
+			);
+			name = work;
+			sourceTree = "<Group>";
+		};
+		DF89C5F138C66B1489D2F6B0 /* forms */ = {
+			isa = PBXGroup;
+			children = (
+				0F2C2C41D8003846A3A6DF55 /* mainwindow.ui */,
+				3552C4C9CFBD3D8032163AD7 /* addaccount.ui */,
+			);
+			name = forms;
+			sourceTree = "<Group>";
+		};
+		E8C543AB96796ECAA2E65C57 /* oathOTP */ = {
+			isa = PBXGroup;
+			children = (
+				E6A982F81894B7920003686D /* Default-568h@2x.png */,
+				2EB56BE3C2D93CDAB0C52E67 /* Sources */,
+				25B08E2869634E9BCBA333A2 /* Generated Sources */,
+				74B182DB50CB5611B5C1C297 /* Supporting Files */,
+				87DF60DE337FB58864343E39 /* Resources */,
+				12E908B8A1C3C07C115504F5 /* Sources [uic] */,
+				AF39DD055C3EF8226FBE929D /* Frameworks */,
+				858FCAB0EB1F29CF8B07677C /* Bundle Resources */,
+				FE0A091FDBFB3E9C31B7A1BD /* Products */,
+			);
+			name = oathOTP;
+			sourceTree = "<Group>";
+		};
+		F28A832768EACB5EB563E82A /* otp */ = {
+			isa = PBXGroup;
+			children = (
+				F8C9165DD9306F098BA978ED /* authOTP.pro */,
+			);
+			name = otp;
+			sourceTree = "<Group>";
+		};
+		FD3158A0BFE4E3685C389C29 /* otp */ = {
+			isa = PBXGroup;
+			children = (
+				66A5A0E22B29A250E947B5E4 /* src */,
+				01477C04B53689AAC81D0CBF /* lib */,
+				0FF37FA863247F1F9B93C649 /* inc */,
+			);
+			name = otp;
+			sourceTree = "<Group>";
+		};
+		FE0A091FDBFB3E9C31B7A1BD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3FE5969F04B298895CEDFE97 /* oathOTP.app */,
+			);
+			name = Products;
+			sourceTree = "<Group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BA37DF94F1CCF61CB5EC629B /* oathOTP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6CC3B5D2136C7CD6A5CF5A59 /* Build configuration list for PBXNativeTarget "oathOTP" */;
+			buildPhases = (
+				F7E50F631C51CD5B5DC0BC43 /* Compile Sources */,
+				3DA90DAE39A0C9D07C6F6B0F /* Qt Prelink */,
+				D1C883685E82D5676953459A /* Link Binary With Libraries */,
+				30414803F31797EB689AE508 /* Copy Bundle Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				46D7F57F2335EEE0F0E34E13 /* PBXTargetDependency */,
+			);
+			name = oathOTP;
+			productName = oathOTP;
+			productReference = 3FE5969F04B298895CEDFE97 /* oathOTP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6DB9C3763D02B1415CD9D565 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = DAC4C1AA5EDEA1C85E9CA5E6 /* Build configuration list for PBXProject "oathOTP" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E8C543AB96796ECAA2E65C57 /* oathOTP */;
+			productRefGroup = FE0A091FDBFB3E9C31B7A1BD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BA37DF94F1CCF61CB5EC629B /* oathOTP */,
+				CF27B0065364134F46BDB880 /* Qt Preprocess */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		30414803F31797EB689AE508 /* Copy Bundle Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E6A982FB1894B8680003686D /* oathOTP.icns in Copy Bundle Resources */,
+				BE1AEB4FA60218B0D9CC730F /* /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/oathOTP.xcodeproj/Default-568h@2x.png in Copy Bundle Resources */,
+				E6A982F91894B7920003686D /* Default-568h@2x.png in Copy Bundle Resources */,
+			);
+			name = "Copy Bundle Resources";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3DA90DAE39A0C9D07C6F6B0F /* Qt Prelink */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(OBJECT_FILE_DIR_$(CURRENT_VARIANT))/$(CURRENT_ARCH)/*.o",
+			);
+			name = "Qt Prelink";
+			outputPaths = (
+				"$(LINK_FILE_LIST_$(CURRENT_VARIANT)_$(CURRENT_ARCH))",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "for f in $(find ${OBJECT_FILE_DIR}-${CURRENT_VARIANT}/${CURRENT_ARCH} -name '*.o'); do (nm $f | grep -q 'T _main' && cp $f $f.original && ld -r -alias _main _qt_main -unexported_symbol _main $f.original -o $f) || true ; done";
+		};
+		5E618435888B9D49F8540165 /* Qt Qmake */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "Qt Qmake";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release -f oathOTP.xcodeproj/qt_makeqmake.mak";
+		};
+		7EF0942E79C014DCEC8976BC /* Qt Preprocessors */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "Qt Preprocessors";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release -f oathOTP.xcodeproj/qt_preprocess.mak";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F7E50F631C51CD5B5DC0BC43 /* Compile Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C049B0ED8D0ED2C9162A106 /* main.cpp in Compile Sources */,
+				C28E7A1872B001D1E1749C89 /* mainwindow.cpp in Compile Sources */,
+				3B3A46901FAE3D21191D87EE /* addaccount.cpp in Compile Sources */,
+				5A65273C98FF03BCC697AE0E /* configfile.cpp in Compile Sources */,
+				CE1804B7522042E23200C918 /* accountconfigfile.cpp in Compile Sources */,
+				C3BAE582EA9DB5A4FD014528 /* otp.cpp in Compile Sources */,
+				23AEF186181EC00490E59674 /* base32.cpp in Compile Sources */,
+				335DC13200FD5A0F35D8917A /* qrc_ressource.cpp in Compile Sources */,
+				2F9983ACB124B74F32685F47 /* moc_mainwindow.cpp in Compile Sources */,
+				817FBF897569FE659FA6CA59 /* moc_addaccount.cpp in Compile Sources */,
+			);
+			name = "Compile Sources";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		46D7F57F2335EEE0F0E34E13 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CF27B0065364134F46BDB880 /* Qt Preprocess */;
+			targetProxy = E6A982F71894B76E0003686D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		339EE1B2CC4FC24589A0EA95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm;
+				"ARCHS[sdk=iphoneos*]" = armv7;
+				"ARCHS[sdk=iphonesimulator*]" = i386;
+				CC = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1.0;
+				DYLIB_CURRENT_VERSION = 1.0.0;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios",
+					../work/otp/inc,
+					../work/otp/lib,
+					../Qt/5.2.0/ios/include,
+					../Qt/5.2.0/ios/include/QtWidgets,
+					../Qt/5.2.0/ios/include/QtGui,
+					../Qt/5.2.0/ios/include/QtCore,
+					.,
+					.,
+					.,
+					"../Qt/5.2.0/ios/mkspecs/macx-ios-clang",
+				);
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LDPLUSPLUS = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++";
+				LIBRARY_SEARCH_PATHS = (
+					/Users/inso/Qt/5.2.0/ios/plugins/platforms,
+					/System/Library/Frameworks/,
+					/Users/inso/Qt/5.2.0/ios/lib,
+				);
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-fvisibility=hidden",
+					"-fpascal-strings",
+					"-fmessage-length=0",
+					"-Wno-trigraphs",
+					"-Wreturn-type",
+					"-Wparentheses",
+					"-Wswitch",
+					"-Wno-unused-parameter",
+					"-Wunused-variable",
+					"-Wunused-value",
+					"-Wno-shorten-64-to-32",
+					"-Wno-sign-conversion",
+					"-fexceptions",
+					"-fasm-blocks",
+					"-Wno-missing-field-initializers",
+					"-Wno-missing-prototypes",
+					"-Wno-implicit-atomic-properties",
+					"-Wformat",
+					"-Wno-missing-braces",
+					"-Wno-unused-function",
+					"-Wno-unused-label",
+					"-Wuninitialized",
+					"-Wno-unknown-pragmas",
+					"-Wno-shadow",
+					"-Wno-four-char-constants",
+					"-Wno-sign-compare",
+					"-Wpointer-sign",
+					"-Wno-newline-eof",
+					"-Wdeprecated-declarations",
+					"-Winvalid-offsetof",
+					"-Wno-conversion",
+					"-O2",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DDARWIN_NO_CARBON",
+					"-DQT_NO_PRINTER",
+					"-DQT_NO_PRINTDIALOG",
+					"-DCRYPTOPP_DISABLE_ASM",
+					"-DCRYPTOPP_DISABLE_SSE2",
+					"-DQT_NO_DEBUG",
+					"-DQT_WIDGETS_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-fvisibility=hidden",
+					"-fpascal-strings",
+					"-fmessage-length=0",
+					"-Wno-trigraphs",
+					"-Wreturn-type",
+					"-Wparentheses",
+					"-Wswitch",
+					"-Wno-unused-parameter",
+					"-Wunused-variable",
+					"-Wunused-value",
+					"-Wno-shorten-64-to-32",
+					"-Wno-sign-conversion",
+					"-fexceptions",
+					"-fasm-blocks",
+					"-Wno-missing-field-initializers",
+					"-Wno-missing-prototypes",
+					"-Wno-implicit-atomic-properties",
+					"-Wformat",
+					"-Wno-missing-braces",
+					"-Wno-unused-function",
+					"-Wno-unused-label",
+					"-Wuninitialized",
+					"-Wno-unknown-pragmas",
+					"-Wno-shadow",
+					"-Wno-four-char-constants",
+					"-Wno-sign-compare",
+					"-Wpointer-sign",
+					"-Wno-newline-eof",
+					"-Wdeprecated-declarations",
+					"-Winvalid-offsetof",
+					"-Wno-conversion",
+					"-fvisibility-inlines-hidden",
+					"-Wno-non-virtual-dtor",
+					"-Wno-overloaded-virtual",
+					"-Wno-exit-time-destructors",
+					"-O2",
+					"-std=c++11",
+					"-stdlib=libc++",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DDARWIN_NO_CARBON",
+					"-DQT_NO_PRINTER",
+					"-DQT_NO_PRINTDIALOG",
+					"-DCRYPTOPP_DISABLE_ASM",
+					"-DCRYPTOPP_DISABLE_SSE2",
+					"-DQT_NO_DEBUG",
+					"-DQT_WIDGETS_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+				);
+				OTHER_LDFLAGS = (
+					"-headerpad_max_install_names",
+					"-stdlib=libc++",
+					"-u",
+					_qt_registerPlatformPlugin,
+					"-L/Users/inso/Qt/5.2.0/ios/plugins/platforms",
+					"-framework",
+					UIKit,
+					"-L/Users/inso/Qt/5.2.0/ios/lib",
+					"-framework",
+					OpenGLES,
+					"-lz",
+					"-lm",
+				);
+				PRODUCT_NAME = oathOTP;
+				QT_LIBRARY_SUFFIX = "";
+				"QT_LIBRARY_SUFFIX[sdk=iphonesimulator*]" = "_iphonesimulator$(QT_LIBRARY_SUFFIX)";
+				SDKROOT = iphoneos;
+				SYMROOT = "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3AA6C32AC930069E80220CF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = arm;
+				"ARCHS[sdk=iphoneos*]" = armv7;
+				"ARCHS[sdk=iphonesimulator*]" = i386;
+				CC = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DYLIB_COMPATIBILITY_VERSION = 1.0;
+				DYLIB_CURRENT_VERSION = 1.0.0;
+				FRAMEWORK_SEARCH_PATHS = "";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/inso/Qt/5.2.0/ios/mkspecs/macx-ios-clang/ios",
+					../work/otp/inc,
+					../work/otp/lib,
+					../Qt/5.2.0/ios/include,
+					../Qt/5.2.0/ios/include/QtWidgets,
+					../Qt/5.2.0/ios/include/QtGui,
+					../Qt/5.2.0/ios/include/QtCore,
+					.,
+					.,
+					.,
+					"../Qt/5.2.0/ios/mkspecs/macx-ios-clang",
+				);
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LDPLUSPLUS = "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++";
+				LIBRARY_SEARCH_PATHS = (
+					/Users/inso/Qt/5.2.0/ios/plugins/platforms,
+					/System/Library/Frameworks/,
+					/Users/inso/Qt/5.2.0/ios/lib,
+				);
+				OTHER_CFLAGS = (
+					"-pipe",
+					"-fvisibility=hidden",
+					"-fpascal-strings",
+					"-fmessage-length=0",
+					"-Wno-trigraphs",
+					"-Wreturn-type",
+					"-Wparentheses",
+					"-Wswitch",
+					"-Wno-unused-parameter",
+					"-Wunused-variable",
+					"-Wunused-value",
+					"-Wno-shorten-64-to-32",
+					"-Wno-sign-conversion",
+					"-fexceptions",
+					"-fasm-blocks",
+					"-Wno-missing-field-initializers",
+					"-Wno-missing-prototypes",
+					"-Wno-implicit-atomic-properties",
+					"-Wformat",
+					"-Wno-missing-braces",
+					"-Wno-unused-function",
+					"-Wno-unused-label",
+					"-Wuninitialized",
+					"-Wno-unknown-pragmas",
+					"-Wno-shadow",
+					"-Wno-four-char-constants",
+					"-Wno-sign-compare",
+					"-Wpointer-sign",
+					"-Wno-newline-eof",
+					"-Wdeprecated-declarations",
+					"-Winvalid-offsetof",
+					"-Wno-conversion",
+					"-O2",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DDARWIN_NO_CARBON",
+					"-DQT_NO_PRINTER",
+					"-DQT_NO_PRINTDIALOG",
+					"-DCRYPTOPP_DISABLE_ASM",
+					"-DCRYPTOPP_DISABLE_SSE2",
+					"-DQT_NO_DEBUG",
+					"-DQT_WIDGETS_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-pipe",
+					"-fvisibility=hidden",
+					"-fpascal-strings",
+					"-fmessage-length=0",
+					"-Wno-trigraphs",
+					"-Wreturn-type",
+					"-Wparentheses",
+					"-Wswitch",
+					"-Wno-unused-parameter",
+					"-Wunused-variable",
+					"-Wunused-value",
+					"-Wno-shorten-64-to-32",
+					"-Wno-sign-conversion",
+					"-fexceptions",
+					"-fasm-blocks",
+					"-Wno-missing-field-initializers",
+					"-Wno-missing-prototypes",
+					"-Wno-implicit-atomic-properties",
+					"-Wformat",
+					"-Wno-missing-braces",
+					"-Wno-unused-function",
+					"-Wno-unused-label",
+					"-Wuninitialized",
+					"-Wno-unknown-pragmas",
+					"-Wno-shadow",
+					"-Wno-four-char-constants",
+					"-Wno-sign-compare",
+					"-Wpointer-sign",
+					"-Wno-newline-eof",
+					"-Wdeprecated-declarations",
+					"-Winvalid-offsetof",
+					"-Wno-conversion",
+					"-fvisibility-inlines-hidden",
+					"-Wno-non-virtual-dtor",
+					"-Wno-overloaded-virtual",
+					"-Wno-exit-time-destructors",
+					"-O2",
+					"-std=c++11",
+					"-stdlib=libc++",
+					"-Wall",
+					"-W",
+					"-fPIE",
+					"-DDARWIN_NO_CARBON",
+					"-DQT_NO_PRINTER",
+					"-DQT_NO_PRINTDIALOG",
+					"-DCRYPTOPP_DISABLE_ASM",
+					"-DCRYPTOPP_DISABLE_SSE2",
+					"-DQT_NO_DEBUG",
+					"-DQT_WIDGETS_LIB",
+					"-DQT_GUI_LIB",
+					"-DQT_CORE_LIB",
+				);
+				OTHER_LDFLAGS = (
+					"-headerpad_max_install_names",
+					"-stdlib=libc++",
+					"-u",
+					_qt_registerPlatformPlugin,
+					"-L/Users/inso/Qt/5.2.0/ios/plugins/platforms",
+					"-framework",
+					UIKit,
+					"-L/Users/inso/Qt/5.2.0/ios/lib",
+					"-framework",
+					OpenGLES,
+					"-lz",
+					"-lm",
+				);
+				PRODUCT_NAME = oathOTP;
+				QT_LIBRARY_SUFFIX = _debug;
+				"QT_LIBRARY_SUFFIX[sdk=iphonesimulator*]" = "_iphonesimulator$(QT_LIBRARY_SUFFIX)";
+				SDKROOT = iphoneos;
+				SYMROOT = "/Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6666AA5E688052234F6758D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"ARCHS[sdk=iphoneos*]" = armv7;
+				"ARCHS[sdk=iphonesimulator*]" = i386;
+				COPY_PHASE_STRIP = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				PRODUCT_NAME = oathOTP;
+				QT_LIBRARY_SUFFIX = "";
+				"QT_LIBRARY_SUFFIX[sdk=iphonesimulator*]" = "_iphonesimulator$(QT_LIBRARY_SUFFIX)";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		77418F46922677BB04ED38DD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"ARCHS[sdk=iphoneos*]" = armv7;
+				"ARCHS[sdk=iphonesimulator*]" = i386;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = oathOTP;
+				QT_LIBRARY_SUFFIX = _debug;
+				"QT_LIBRARY_SUFFIX[sdk=iphonesimulator*]" = "_iphonesimulator$(QT_LIBRARY_SUFFIX)";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6CC3B5D2136C7CD6A5CF5A59 /* Build configuration list for PBXNativeTarget "oathOTP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77418F46922677BB04ED38DD /* Debug */,
+				6666AA5E688052234F6758D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DAC4C1AA5EDEA1C85E9CA5E6 /* Build configuration list for PBXProject "oathOTP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AA6C32AC930069E80220CF1 /* Debug */,
+				339EE1B2CC4FC24589A0EA95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6DB9C3763D02B1415CD9D565 /* Project object */;
+}

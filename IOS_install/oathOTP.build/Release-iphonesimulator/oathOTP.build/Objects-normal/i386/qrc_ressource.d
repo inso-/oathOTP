@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/inso/build-authOTP-iphonesimulator_clang_Qt_5_2_0_for_iOS-Release/qrc_ressource.cpp \
+  ../Qt/5.2.0/ios/include/QtCore/qglobal.h \
+  ../Qt/5.2.0/ios/include/QtCore/qconfig.h \
+  ../Qt/5.2.0/ios/include/QtCore/qfeatures.h \
+  ../Qt/5.2.0/ios/include/QtCore/qsystemdetection.h \
+  ../Qt/5.2.0/ios/include/QtCore/qprocessordetection.h \
+  ../Qt/5.2.0/ios/include/QtCore/qcompilerdetection.h \
+  ../Qt/5.2.0/ios/include/QtCore/qglobalstatic.h \
+  ../Qt/5.2.0/ios/include/QtCore/qatomic.h \
+  ../Qt/5.2.0/ios/include/QtCore/qbasicatomic.h \
+  ../Qt/5.2.0/ios/include/QtCore/qatomic_x86.h \
+  ../Qt/5.2.0/ios/include/QtCore/qgenericatomic.h \
+  ../Qt/5.2.0/ios/include/QtCore/qmutex.h \
+  ../Qt/5.2.0/ios/include/QtCore/qlogging.h \
+  ../Qt/5.2.0/ios/include/QtCore/qflags.h \
+  ../Qt/5.2.0/ios/include/QtCore/qtypeinfo.h \
+  ../Qt/5.2.0/ios/include/QtCore/qtypetraits.h \
+  ../Qt/5.2.0/ios/include/QtCore/qsysinfo.h
